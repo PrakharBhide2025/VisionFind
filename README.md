@@ -26,5 +26,3 @@ VisionFind is a **cloud-based reverse image search system** designed to handle 1
 - **Databases & Storage:** MongoDB, AWS S3  
 - **Containerization & Deployment:** Docker  
 - **APIs:** RESTful endpoints for image search and retrieval  
-pip install -r requirements.txt
-uvicorn main:app --reload
