@@ -12,15 +12,15 @@ Key Features
 
 ---
 
-## Impact
+Impact
 - Supported 100K+ images with high reliability  
-- **Optimized retrieval speed, improving search performance and user satisfaction  
+- Optimized retrieval speed, improving search performance and user satisfaction  
 - Reduced downtime to <0.1% using caching and concurrency controls  
 - Collaborative development with a team of 3, enabling fast deployment and scalability  
 
 ---
 
-## Tech Stack
+Tech Stack
 - Languages: Python, C++  
 - Frameworks & Libraries: PyTorch, FAISS  
 - Databases & Storage: MongoDB, AWS S3  
