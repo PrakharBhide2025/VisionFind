@@ -1,5 +1,5 @@
 # VisionFind 🚀
-VisionFind is a **cloud-based reverse image search system** designed to handle 100,000+ images efficiently, providing fast, reliable retrieval with scalable storage, indexing, and minimal downtime (<0.1%). It is optimized for high-performance searches and modular deployment.
+VisionFind is a **Distributed Reverse Image Search System** designed to handle 100,000+ images efficiently, providing fast, reliable retrieval with scalable storage, indexing, and minimal downtime (<0.1%). It is optimized for high-performance searches and modular deployment.
 
 ---
 
